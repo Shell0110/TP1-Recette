@@ -1,0 +1,8 @@
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\bin\Debug\TP1Evol3Recette.exe.config
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\bin\Debug\TP1Evol3Recette.exe
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\bin\Debug\TP1Evol3Recette.pdb
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.csproj.AssemblyReference.cache
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.csproj.SuggestedBindingRedirects.cache
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.csproj.CoreCompileInputs.cache
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.exe
+Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.pdb
