@@ -6,3 +6,10 @@ Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.
 Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.csproj.CoreCompileInputs.cache
 Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.exe
 Z:\Bloc1\prog_BD\prog\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.pdb
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\bin\Debug\TP1Evol3Recette.exe.config
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\bin\Debug\TP1Evol3Recette.exe
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\bin\Debug\TP1Evol3Recette.pdb
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.csproj.AssemblyReference.cache
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.csproj.CoreCompileInputs.cache
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.exe
+C:\Users\Shell0110\Desktop\TP1-Recette-main\TP1Evol3Recette\TP1Evol3Recette\obj\Debug\TP1Evol3Recette.pdb

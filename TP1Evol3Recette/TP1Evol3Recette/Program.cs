@@ -23,8 +23,9 @@ namespace CoursRecette
 
             float recette;
             float taxeCnc;
-            float taxeDistributeur;
+            float taxeDistrib;
             float benefice;
+            float totalCharge;
             
            
             // déclaration des constantes
@@ -52,34 +53,41 @@ namespace CoursRecette
 
             // Formule
 
+
+            taxeCnc = recette * 6 / 100;
+            taxeDistrib = recette / 2;
+            totalCharge = taxeCnc + taxeDistrib + chargeFixe;
+            benefice = recette - totalCharge;
+
+            Console.WriteLine("");
+            Console.Write("Nombre d'enfants: " + nbEnfants);
+            Console.WriteLine("");
+            Console.Write("Nombre d'adultes: " + nbAdultes);
+            Console.WriteLine("");
+            Console.Write("Nombre total de place: " + (nbEnfants + nbAdultes));
+            Console.WriteLine("");
+            Console.Write("Motant de la recette enfant: " + nbEnfants * prixEnfants);
+            Console.WriteLine("");
+            Console.Write("Montant de la recette adultes: " + nbAdultes * prixAdultes);
+            Console.WriteLine("");
+            Console.Write("Montant de la recette total: " + recette);
+            Console.WriteLine("");
+            Console.Write("Montant taxeCnc" + taxeCnc);
+            Console.WriteLine("");
+            Console.Write("Montant distributeur: " + taxeDistrib);
+            Console.WriteLine("");
+            Console.Write("Montant total des charges: " + totalCharge);
+            Console.WriteLine("");
+            Console.Write("Benefice: " + benefice);
+            Console.WriteLine("");
+            Console.Write("");
+
+
+
+
+
+
             
-            taxeCnc = recette + (recette * 6 / 100);
-
-            taxeDistributeur = taxeCnc / 2;
-
-            benefice = taxeDistributeur - 135;
-
-            Console.WriteLine(taxeCnc);
-            Console.WriteLine(taxeDistributeur);
-            Console.WriteLine(benefice);
-            
-
-
-
-
-
-            /*
-            Console.WriteLine("");
-            Console.WriteLine("Le nombre de places vendu des enfants est de: " + nbEnfants + " et le prix de la place est de: " + prixEnfants + " euro");
-            Console.WriteLine("");
-            Console.WriteLine("Le nombre de places vendu des adultes est de: " + nbAdultes + " et le prix de la place est de: " + prixAdultes + " euro");
-            Console.WriteLine("");
-            Console.WriteLine("Le montal total de la recette est de: " + recette);
-            Console.WriteLine("");
-            Console.WriteLine("Le montal total des places vendues des enfants est de: " + (nbEnfants * prixEnfants));
-            Console.WriteLine("");
-            Console.WriteLine("Le montal total des places vendues des adultes est de: " + (nbAdultes * prixAdultes));
-            */
 
 
 
